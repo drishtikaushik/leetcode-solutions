@@ -8,14 +8,14 @@ This repo tracks my ongoing LeetCode practice as I work toward strengthening my 
 
 ## Progress
 
-- **Problems solved:** 30
+- **Problems solved:** 33
 - **Started:** 25th August 2026
 
 ## Topics Covered
 
 | Topic | Problems |
 |-------|----------|
-| Arrays | 26 |
+| Arrays | 29 |
 | Strings | 1 |
 | Math | 5 |
 | Two pointers | 8 |
