@@ -17,16 +17,25 @@ Explanation:
 All numbers from 1 to 998 have fewer than four digits. Therefore, no commas are used.
 
 Constraints:
-1 <= n <= 10^5'''
+1 <= n <= 10^15'''
 
 
 class Solution(object):
     def countCommas(self, n):
         r = 0
-        if n<=100000:
-            count = len(range(1000, n + 1))
-            r = r + (count)
-            return r
-        elif n<1000:
-            return r
+
+        if n >= 1000:
+            r += n - 999
+
+        if n >= 1000000:
+            r += n - 999999
+
+        if n >= 1000000000:
+            r += n - 999999999
+
+        if n >= 1000000000000:
+            r += n - 999999999999
+        if n >= 1000000000000000:
+            r += n - 999999999999999
+        return r
         
