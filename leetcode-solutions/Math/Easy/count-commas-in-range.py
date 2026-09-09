@@ -1,4 +1,4 @@
-'''ou are given an integer n.
+'''You are given an integer n.
 Return the total number of commas used when writing all integers from [1, n] (inclusive) in standard number formatting.
 In standard formatting:
 A comma is inserted after every three digits from the right.
