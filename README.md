@@ -8,7 +8,7 @@ This repo tracks my ongoing LeetCode practice as I work toward strengthening my 
 
 ## Progress
 
-- **Problems solved:** 53
+- **Problems solved:** 59
 - **Started:** 25th August 2026
 
 ## Topics Covered
@@ -16,8 +16,8 @@ This repo tracks my ongoing LeetCode practice as I work toward strengthening my 
 | Topic | Problems |
 |-------|----------|
 | Arrays | 35 |
-| Strings | 5 |
-| Math | 13 |
+| Strings | 8 |
+| Math | 25 |
 | Two pointers | 8 |
 | Bit Manipulation | 8 |
 | Divide & Conquer | 4 |
