@@ -8,7 +8,7 @@ This repo tracks my ongoing LeetCode practice as I work toward strengthening my 
 
 ## Progress
 
-- **Problems solved:** 65
+- **Problems solved:** 72
 - **Started:** 25th August 2026
 
 ## Topics Covered
