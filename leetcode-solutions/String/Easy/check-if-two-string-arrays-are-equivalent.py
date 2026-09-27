@@ -33,3 +33,6 @@ class Solution(object):
         for i in range (len(word2)):
             w2+=word2[i]
         return (w1==w2)
+
+sol = Solution()
+print(sol.arrayStringsAreEqual(["ab", "c"], ["a", "bc"]))
