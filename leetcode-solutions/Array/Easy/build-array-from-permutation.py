@@ -26,10 +26,8 @@ class Solution(object):
     def buildArray(self, nums):
         res = []
         for i in range (len(nums)):
-           e = nums[nums[i]]
-           res.append(e)
+           res.append(nums[nums[i]])
         return res
-
 
 sol = Solution()
 print(sol.buildArray([0,2,1,5,3,4]))
