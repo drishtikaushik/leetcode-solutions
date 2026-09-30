@@ -36,11 +36,11 @@ Constraints:
 class Solution(object):
     def getFinalState(self, nums, k, multiplier):
         while k>0:
-            a= min(nums)
-            i = nums.index(a)
-            nums[i]=a*multiplier
+            i = nums.index(min(nums))
+            nums[i]=(min(nums))*multiplier
             k-=1
         return nums
+
 
 sol = Solution()
 print(sol.getFinalState([2,1,3,5,6], 5, 2))
