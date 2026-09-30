@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-Daily Data Structures & Algorithms practice — solutions written in Python, organized by topic.
+Daily Data Structures & Algorithms practice - solutions written in Python, organized by topic.
 
 ## About
 
