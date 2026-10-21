@@ -8,19 +8,19 @@ This repo tracks my ongoing LeetCode practice as I work toward strengthening my 
 
 ## Progress
 
-- **Problems solved:** 129
+- **Problems solved:** 141
 - **Started:** 25th August 2026
 
 ## Topics Covered
 
 | Topic | Problems |
 |-------|----------|
-| Arrays | 82 |
-| Strings | 13 |
-| Math | 53 |
+| Arrays | 84 |
+| Strings | 18 |
+| Math | 65 |
 | Two pointers | 13 |
-| Bit Manipulation | 6 |
+| Bit Manipulation | 9 |
 | Divide & Conquer | 4 |
 | Binary Search | 15 |
-| Heap | 3 |
-| Sorting & Searching | 23 |
+| Heap | 4 |
+| Sorting & Searching | 24 |
